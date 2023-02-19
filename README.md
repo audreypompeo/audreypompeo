@@ -2,7 +2,7 @@
 
 <div style="display:inline_block"><br/>
 
-![Pompeo GitHub stats](https://github-readme-stats.vercel.app/api?username=audreypompeo&show_icons=true&theme=highcontrast)
+![Pompeo GitHub stats](https://github-readme-stats.vercel.app/api?username=audreypompeo&show_icons=true&theme=dracula)
 
 ## Tecnologias que estudo
 <div style="display:inline_block"><br/>
