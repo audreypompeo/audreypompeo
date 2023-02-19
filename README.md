@@ -3,6 +3,7 @@
 <div style="display:inline_block"><br/>
 
 ![Pompeo GitHub stats](https://github-readme-stats.vercel.app/api?username=audreypompeo&show_icons=true&theme=dark)
+ 
 
 ## Tecnologias que estudo
 <img align="center" alt="Audrey-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
