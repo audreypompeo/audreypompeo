@@ -40,7 +40,6 @@ I'm a Systems Analysis and Development student in Brazil, Porto Alegre.
  
  <div> 
   	
-  ![Snake animation](https://github.com/EduardoAlphonse/EduardoAlphonse/blob/output/github-contribution-grid-snake.svg)
  
  
   </div>
